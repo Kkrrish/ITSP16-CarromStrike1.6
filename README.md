@@ -9,4 +9,4 @@ This repository contains all the codes we needed for the complete functioning of
 3. Arduino Code for Motor Control and Shot Trigger.
 4. Full-featured, merged code, ready for turn-by-turn play!
 
-###Thank you.
+###Thank you!!
